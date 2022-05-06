@@ -46,10 +46,11 @@
 			<version>1.6.4</version>
 		</dependency>
 
+		<!-- https://mvnrepository.com/artifact/org.apache.maven/maven-plugin-api -->
 		<dependency>
-			<groupId>com.apple</groupId>
-			<artifactId>AppleJavaExtensions</artifactId>
-			<version>1.4</version>
+			<groupId>org.apache.maven</groupId>
+			<artifactId>maven-plugin-api</artifactId>
+			<version>3.8.5</version>
 		</dependency>
 	</dependencies>
 
