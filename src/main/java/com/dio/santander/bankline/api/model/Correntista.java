@@ -37,10 +37,10 @@ public class Correntista {
 	public void setId(Integer id) {
 		this.id = id;
 	}
-	public String getCof() {
+	public String getCpf() {
 		return cpf;
 	}
-	public void setCof(String cpf) {
+	public void setCpf(String cpf) {
 		this.cpf = cpf;
 	}
 	public String getNome() {
